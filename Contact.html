@@ -1,0 +1,62 @@
+<div class="container">
+<div id="location">
+            <h1 class="customheader text-center">Office Location</h1>
+            <div class="text-center">
+                <div>Kalyani Nagar</div>
+                <div>Pune</div>
+                <div>Maharashtra 2220333</div>
+                <div>India</div>
+            </div>
+            <div class="page-section">
+                
+                    
+					    <div style='overflow:hidden;height:440px;width:1170px;border:8px solid #eee;'>
+							<div id="map_canvas" ng-controller="mainCtrl">
+							<ui-gmap-google-map center="map.center" zoom="map.zoom"></ui-gmap-google-map>
+							</div>
+						</div>
+		    </div>
+            
+ </div>
+
+<div class="container" id="comments" style="margin-bottom:50px">
+            <h1 class="customheader text-center">Submit Comments</h1>
+            <div class="row">
+                <form name="reviewForm" ng-submit="reviewForm.$valid" novalidate>
+                    <div>
+                        <div class="well well-sm"><strong><span class="glyphicon glyphicon-asterisk"></span>Required Field</strong></div>
+                        <div class="form-group">
+                            <label for="InputName">Enter Name</label>
+                            <div class="input-group">
+                                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputEmail">Enter Email</label>
+                            <div class="input-group">
+                                <input type="email" class="form-control" id="InputEmailFirst" name="InputEmail" placeholder="Enter Email" required>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputEmail">Confirm Email</label>
+                            <div class="input-group">
+                                <input type="email" class="form-control" id="InputEmailSecond" name="InputEmail" placeholder="Confirm Email" required>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="InputMessage">Enter Message</label>
+                            <div class="input-group">
+                                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-asterisk"></span></span>
+                            </div>
+                        </div>
+                        <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary pull-right">
+                    </div>
+                </form>
+            </div>
+        </div>
+		</div>
+  

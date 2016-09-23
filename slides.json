@@ -1,0 +1,24 @@
+[
+	{
+	    "url":"images/slide0.jpg",
+		"id":0,
+		"text":"nice image"
+	},
+	{
+	    "url":"images/slide1.jpg",
+		"id":1,
+		"text":"nice image"
+	},
+	{
+	    "url":"images/slide2.jpg",
+		"id":2,
+		"text":"nice image"
+	},
+	{
+	    "url":"images/slide1.jpg",
+		"id":3,
+		"text":"nice image"
+	}
+
+
+]

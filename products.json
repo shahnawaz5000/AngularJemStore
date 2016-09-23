@@ -1,0 +1,224 @@
+[
+  {
+	"name":"Oviya Brass, Alloy bangal",
+	"price":200.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product1.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Atasi International Diamond Ring",
+	"price":500.95,
+	"description":"In geometry, a pentagonal pyramid is a pyramid with a pentagonal base upon which are erected five triangular faces that meet at a point (the vertex). Like any pyramid, it is self-dual.",
+	"images":[
+		{
+			"full":"images/product2.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "this product is awesome",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 4,
+		"body" : "this product is great",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Classique Designer Jewellery Chain",
+	"price":200.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product3.png"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Atasi International Jewel Set",
+	"price":166.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product4.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Classique Designer Pendant",
+	"price":200.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product5.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Atasi International Necklace",
+	"price":800.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product6.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Oviya International Jewel Set",
+	"price":400.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product7.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Classique Designer Diamond Jewel Set",
+	"price":600.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product8.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Bling N Beads Ear Ring",
+	"price":900.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product9.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  },
+  {
+	"name":"Bling N Beads Love Ear Ring",
+	"price":100.95,
+	"description":"In geometry, a dodecahedron is any polyhedron with twelve flat faces. The most familiar dodecahedron is the regular dodecahedron, which is a Platonic solid.",
+	"images":[
+		{
+			"full":"images/product10.jpg"
+		}
+	],
+	"reviews" : [
+	{
+		"stars" : 5,
+		"body" : "i love this product",
+		"author" : "shaan@ali.com"
+	},
+	{
+		"stars" : 1,
+		"body" : "this product sucks",
+		"author" : "farru@khan.com"
+	}
+	]
+  }
+  
+ ]
+
